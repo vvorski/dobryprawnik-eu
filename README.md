@@ -1,6 +1,6 @@
 # dobryprawnik.eu
 
-Statyczna kopia strony https://dobry-prawnik-eu.lovable.app/ hostowana na GitHub Pages.
+Strona https://dobryprawnik.eu – statyczna kopia https://dobry-prawnik-eu.lovable.app/ hostowana na GitHub Pages.
 
 Kontakt/formularz korzysta z Supabase (bez zmian).
 
